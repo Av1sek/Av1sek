@@ -12,7 +12,7 @@
 ## Featured Projects
 
 - [NobleSword](https://av1sek.github.io/NobleSword/)
---Hello
+-Hello
 - [Opus](https://opus.onrender.com/)
 - [Fishcord](https://fishcord.herokuapp.com/)
 
