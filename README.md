@@ -5,11 +5,8 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [avisekpandit.com](avisekpandit.com)
-
-- 📫 How to reach me **avisekpandit22@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **avisekpandit22@gmail.com**
 <p align="left">
 </p>
 
