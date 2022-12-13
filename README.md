@@ -13,7 +13,7 @@
 <p align="left">
   - [Fishcord](https://fishcord.herokuapp.com/)
   - [Opus](https://opus.onrender.com/)
-  - [https://av1sek.github.io/NobleSword/](NobleSword)
+  - [NobleSword](https://av1sek.github.io/NobleSword/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
