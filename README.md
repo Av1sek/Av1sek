@@ -5,9 +5,15 @@
 
 - 🌱 I’m currently learning **Python**
 
-<h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **avisekpandit22@gmail.com**
+- 👨‍💻 View my personal website [avisekpandit.com](avisekpandit.com)
+
+- 📫 You can reach me at **avisekpandit22@gmail.com**
+
+<h3 align="left">Featured Projects:</h3>
 <p align="left">
+  - [Fishcord](https://fishcord.herokuapp.com/)
+  - [Opus](https://opus.onrender.com/)
+  - [https://av1sek.github.io/NobleSword/](NobleSword)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
