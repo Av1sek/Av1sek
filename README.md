@@ -11,9 +11,9 @@
 
 <h3 align="left">Featured Projects:</h3>
 <p align="left">
-  - [Fishcord](https://fishcord.herokuapp.com/)
-  - [Opus](https://opus.onrender.com/)
-  - [NobleSword](https://av1sek.github.io/NobleSword/)
+  [Fishcord](https://fishcord.herokuapp.com/)
+  [Opus](https://opus.onrender.com/)
+  [NobleSword](https://av1sek.github.io/NobleSword/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
